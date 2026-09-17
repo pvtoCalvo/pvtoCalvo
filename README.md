@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#proyectos-destacados">Proyectos</a> &nbsp; / &nbsp;
-  <a href="https://github.com/pvtoCalvo/cv_rpg">Mi CV en modo RPG</a> &nbsp; / &nbsp;
+  <a href="https://senior-devops.com/">Mi CV en modo RPG</a> &nbsp; / &nbsp;
   <a href="https://github.com/pvtoCalvo?tab=repositories">Todos los repositorios</a>
 </p>
 
@@ -25,10 +25,10 @@ Construyo herramientas para Linux, exploro infraestructura y desarrollo interfac
     </td>
     <td width="50%" valign="top">
       <sub>02 / INTERFACES</sub>
-      <h3><a href="https://github.com/pvtoCalvo/cv_rpg">Un CV con puntos de experiencia</a></h3>
+      <h3><a href="https://senior-devops.com/">Un CV con puntos de experiencia</a></h3>
       <p>Portfolio interactivo con estética RPG y pixel art, experiencia por niveles, versión ES/EN y exportación a PDF.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
-      <a href="https://github.com/pvtoCalvo/cv_rpg">Explorar cv_rpg →</a>
+      <a href="https://senior-devops.com/">Ver CV →</a> &nbsp; · &nbsp; <a href="https://github.com/pvtoCalvo/cv_rpg">Código fuente</a>
     </td>
   </tr>
 </table>
@@ -43,3 +43,4 @@ Construyo herramientas para Linux, exploro infraestructura y desarrollo interfac
 ---
 
 <p align="center"><sub>Herramientas útiles, interfaces con personalidad y curiosidad por cómo funcionan las cosas.</sub></p>
+
