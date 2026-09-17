@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg?v=cristo-f" width="100%" alt="Cristo F. — Sistemas. Código. Un poco de RPG. Linux, Rust, TypeScript y Python." />
+  <img src="https://raw.githubusercontent.com/pvtoCalvo/pvtoCalvo/3312f6ba402e1a9fb5dd2d0b8f00ced1c729b971/banner.svg" width="100%" alt="Cristo F. — Sistemas. Código. Un poco de RPG. Linux, Rust, TypeScript y Python." />
 </p>
 
 <p align="center">
