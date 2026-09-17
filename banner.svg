@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">pvtoCalvo — Sistemas, código y un poco de RPG</title>
+  <desc id="desc">Cabecera de perfil con fondo oscuro, acentos verde menta y una terminal ilustrada. Linux, Rust, TypeScript y Python.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d25"/><stop offset="1" stop-color="#080f16"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8fffd2" stroke-opacity=".045"/></pattern>
+    <linearGradient id="line"><stop stop-color="#80efbf"/><stop offset="1" stop-color="#80efbf" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="398" rx="20" fill="url(#bg)" stroke="#253b43" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="396" rx="19" fill="url(#grid)"/>
+  <path d="M54 51H1146" stroke="#294049"/>
+  <circle cx="57" cy="29" r="4" fill="#80efbf"/>
+  <text x="71" y="34" fill="#9eafb8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">PVTOCALVO / LAB</text>
+  <text x="1146" y="34" text-anchor="end" fill="#6f8794" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/github</text>
+  <text x="54" y="108" fill="#80efbf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">HOLA, SOY</text>
+  <text x="49" y="195" fill="#edf7f4" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-4">pvtoCalvo<tspan fill="#80efbf">_</tspan></text>
+  <text x="54" y="242" fill="#b4c7ce" font-family="Arial, Helvetica, sans-serif" font-size="25">Sistemas. Código. Un poco de RPG.</text>
+  <path d="M54 273H663" stroke="url(#line)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#b8cbd2" text-anchor="middle">
+    <rect x="54" y="298" width="86" height="32" rx="6" fill="#15272d" stroke="#29434a"/><text x="97" y="319">Linux</text>
+    <rect x="151" y="298" width="78" height="32" rx="6" fill="#15272d" stroke="#29434a"/><text x="190" y="319">Rust</text>
+    <rect x="240" y="298" width="128" height="32" rx="6" fill="#15272d" stroke="#29434a"/><text x="304" y="319">TypeScript</text>
+    <rect x="379" y="298" width="94" height="32" rx="6" fill="#15272d" stroke="#29434a"/><text x="426" y="319">Python</text>
+  </g>
+  <g transform="translate(765 100)">
+    <rect x="12" y="13" width="365" height="219" rx="12" fill="#03090d" opacity=".55"/>
+    <rect width="365" height="219" rx="12" fill="#0c161e" stroke="#35515b"/>
+    <path d="M0 38H365" stroke="#263e48"/>
+    <circle cx="20" cy="19" r="4" fill="#80efbf"/><circle cx="35" cy="19" r="4" fill="#405862"/><circle cx="50" cy="19" r="4" fill="#405862"/>
+    <text x="344" y="23" text-anchor="end" fill="#77909c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">workspace</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+      <text x="23" y="78" fill="#80efbf">❯ <tspan fill="#e1eeed">ls ./proyectos</tspan></text>
+      <text x="23" y="114" fill="#b2c7d0">sistemas/</text>
+      <text x="23" y="143" fill="#b2c7d0">interfaces/</text>
+      <text x="23" y="172" fill="#b2c7d0">experimentos/</text>
+      <text x="23" y="203" fill="#80efbf">❯</text><rect x="44" y="189" width="9" height="16" fill="#80efbf"/>
+    </g>
+  </g>
+  <text x="54" y="373" fill="#68828f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6">DEL TERMINAL AL NAVEGADOR</text>
+  <path d="M1094 364h18m-9-9v18 M1130 364h18m-9-9v18" stroke="#4a746f"/>
+</svg>
