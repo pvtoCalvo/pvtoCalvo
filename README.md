@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Cristo F. — Sistemas. Código. Un poco de RPG. Linux, Rust, TypeScript y Python." />
+  <img src="./banner.svg?v=cristo-f" width="100%" alt="Cristo F. — Sistemas. Código. Un poco de RPG. Linux, Rust, TypeScript y Python." />
 </p>
 
 <p align="center">
