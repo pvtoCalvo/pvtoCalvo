@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">pvtoCalvo — Sistemas, código y un poco de RPG</title>
+  <title id="title">Cristo F. — Sistemas, código y un poco de RPG</title>
   <desc id="desc">Cabecera de perfil con fondo oscuro, acentos verde menta y una terminal ilustrada. Linux, Rust, TypeScript y Python.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d25"/><stop offset="1" stop-color="#080f16"/></linearGradient>
@@ -13,7 +13,7 @@
   <text x="71" y="34" fill="#9eafb8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">PVTOCALVO / LAB</text>
   <text x="1146" y="34" text-anchor="end" fill="#6f8794" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/github</text>
   <text x="54" y="108" fill="#80efbf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">HOLA, SOY</text>
-  <text x="49" y="195" fill="#edf7f4" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-4">pvtoCalvo<tspan fill="#80efbf">_</tspan></text>
+  <text x="49" y="195" fill="#edf7f4" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-4">Cristo F.<tspan fill="#80efbf">_</tspan></text>
   <text x="54" y="242" fill="#b4c7ce" font-family="Arial, Helvetica, sans-serif" font-size="25">Sistemas. Código. Un poco de RPG.</text>
   <path d="M54 273H663" stroke="url(#line)"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#b8cbd2" text-anchor="middle">
